@@ -23,7 +23,7 @@ Once you have installed all the above mentioned libraries on your computer,
 
 2. In the directory of the folder `Telecalling-Data-Analysis` containing the files of the respository, open up the terminal and run `jupyter notebook`.
 
-3. Once the Jupyter Notebook is open, click on the 'Telecalling Analysis.ipynb'.
+3. Once the Jupyter Notebook is open, click on the `Telecalling Analysis.ipynb`.
 
 4. By clicking on the 'Telecalling Analysis.ipynb', you view all the analysis of the call logs and its visualization.
 
